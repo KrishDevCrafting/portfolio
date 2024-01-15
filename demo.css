@@ -1,0 +1,313 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#header {
+  background-color: black;
+}
+a {
+  color: white;
+  text-transform: uppercase;
+  padding: 13px 16px;
+  text-decoration: none;
+  display: inline-block;
+  /* font-family: 'Josefin Slab', serif;
+   */
+  font-family: "Aleo", serif;
+}
+a:hover {
+  background-color: gray;
+}
+
+nav {
+  display: inline-block;
+  width: 50%;
+  /* margin-left: -4px; */
+}
+#uniqe:hover {
+  background-color: red;
+}
+.search {
+  display: inline-block;
+  width: 50%;
+  margin-left: -4px;
+
+  text-align: right;
+}
+
+.img-text {
+  display: block;
+  border: 1px solid red;
+  margin-top: -104px;
+  font-family: "Noto Sans Multani", sans-serif;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+img {
+  width: 100%;
+  vertical-align: middle;
+}
+.work {
+  /* border: 1px solid green; */
+  text-align: center;
+}
+/* Txt CSS Chincago */
+.second {
+  display: block;
+  border: 1px solid red;
+  margin-top: 7px;
+  color: white;
+  font-family: "Noto Sans Multani", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+/* 
+second-phase */
+#band {
+  margin-top: 70px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  height: 300px;
+}
+#music {
+  padding: 20px 20px;
+  font-size: 14px;
+  font-style: italic;
+}
+#only {
+  text-align: justify;
+  margin: 0 auto;
+  width: 50%;
+  font-family: "Noto Sans Multani", sans-serif;
+  font-family: "Poppins", sans-serif;
+  display: inline-block;
+}
+
+.box-main {
+  /* border: 1px solid blue; */
+  width: 50%;
+  margin: 0 auto;
+  /* margin-bottom: 30px; */
+}
+.box-one {
+  margin-left: 60px;
+
+  display: inline-block;
+}
+.box-two {
+  display: inline-block;
+}
+.box-three {
+  display: inline-block;
+}
+
+.box-one,
+.box-two,
+.box-three {
+  text-align: center;
+  padding: 30px;
+  width: 140px;
+  height: 140px;
+}
+.contain-dates {
+  background-color: black;
+  height: 850px;
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  padding: 30px 20px;
+  font-family: "Libre Franklin", sans-serif;
+  font-family: "Noto Sans Multani", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+#text {
+  font-size: large;
+  font-style: italic;
+  padding: 20px;
+}
+.box-layout ul {
+  color: purple;
+  width: 65%;
+  background-color: white;
+  font-size: small;
+  list-style: none;
+  text-align: justify;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+li {
+  padding: 10px;
+}
+#num {
+  color: white;
+  background-color: black;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 731px;
+}
+
+.sold-out {
+  display: inline-block;
+  padding: 5px;
+  background-color: orangered;
+  border: 1px solid;
+  color: white;
+  width: 50px;
+  margin-left: 10px;
+}
+
+.main-contain {
+  margin-top: px;
+  width: 60%;
+  margin: 0 auto;
+  /* border: 1px solid green; */
+}
+
+.contain-one {
+  width: 240px;
+  display: inline-block;
+
+  background-color: aliceblue;
+}
+
+.contain-two {
+  width: 240px;
+
+  display: inline-block;
+
+  background-color: aliceblue;
+}
+
+.contain-three {
+  width: 240px;
+  display: inline-block;
+  /*    
+padding: 10px;   */
+  background-color: aliceblue;
+}
+#data {
+  display: inline-block;
+  color: black;
+  font-size: small;
+  text-align: justify;
+}
+
+#a {
+  padding: 5px;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-right: 110px;
+}
+button:hover {
+  background-color: gray;
+}
+
+#b {
+  color: gray;
+  padding: 5px;
+}
+
+.power-card {
+  /* width: 700px; */
+  margin: 0 auto;
+
+  /* height: 300px; */
+  text-align: center;
+  /* background-color: aqua; */
+  padding-top: 10px;
+}
+.para {
+  background-color: lightblue;
+  display: inline-block;
+}
+.number {
+  display: inline-block;
+
+  background-color: burlywood;
+}
+.input-data {
+  padding: 50px;
+}
+.text {
+  padding: 2px 10px;
+}
+
+#img-map {
+  padding-top: 20px;
+  width: 100%;
+}
+
+#interstellar {
+  display: inline-block;
+}
+/* #inf{
+   
+
+} */
+
+/* #v{
+   margin-right: 200px;
+   display: inline-block;
+   padding: 10px;
+  
+ 
+}
+    #k{
+          margin-right: 500px;
+  width: 200px;
+   padding: 10px;
+   display: inline-block;
+    }
+#l{
+    margin-right: 300px;
+   display: inline-block;
+   padding: 10px;
+}
+.Time{  
+padding: 10px   ;
+}
+#imp{
+    margin-right: -290px;
+    display: inline-block;
+} */
+
+input[type="email"] {
+  margin-left: 10px;
+}
+.icon {
+  margin-top: 40px;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+.icon:hover {
+  color: gray;
+}
+
+h5 {
+  color: maroon;
+  font-family: "Libre Franklin", sans-serif;
+  font-family: "Noto Sans Multani", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  #header,
+  .work,
+  #band,
+  .box-main,
+  .contain-dates,
+  .power-card {
+    width: 150%;
+  }
+}
